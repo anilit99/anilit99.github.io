@@ -31,7 +31,7 @@ github_username:  jekyll
 
 lsi: false
 safe: true
-source: https://github.com/anilit99/anilit99.github.io
+source: https://github.com/anilit99/anilit99.github.io/docs/firstone
 incremental: false
 highlighter: rouge
 gist:
